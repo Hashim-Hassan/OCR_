@@ -1,0 +1,3 @@
+Levenshtein
+pandas
+openpyxl
